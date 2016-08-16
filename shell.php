@@ -1,3 +1,4 @@
 <php?
-echo file_get_content("index.php");
+$homepage= file_get_content("index.php");
+echo $homepage;
 ?>
