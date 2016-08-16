@@ -1,3 +1,3 @@
 <php?
-file_get_content("index.php");
+echo file_get_content("index.php");
 ?>
