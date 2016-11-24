@@ -1,3 +1,0 @@
-# webshell
-root-me
-
